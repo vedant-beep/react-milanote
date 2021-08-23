@@ -1,0 +1,27 @@
+{
+  "files": {
+    "chunk-blinkmind.css": "/react-milanote/static/css/chunk-blinkmind.2ad25acf.chunk.css",
+    "chunk-blinkmind.js": "/react-milanote/static/js/chunk-blinkmind.78d035a0.chunk.js",
+    "chunk-blinkmind.js.map": "/react-milanote/static/js/chunk-blinkmind.78d035a0.chunk.js.map",
+    "chunk-libs.css": "/react-milanote/static/css/chunk-libs.ee8e6b6e.chunk.css",
+    "chunk-libs.js": "/react-milanote/static/js/chunk-libs.1f2b0070.chunk.js",
+    "chunk-libs.js.map": "/react-milanote/static/js/chunk-libs.1f2b0070.chunk.js.map",
+    "chunk-slate.js": "/react-milanote/static/js/chunk-slate.b4ce9264.chunk.js",
+    "chunk-slate.js.map": "/react-milanote/static/js/chunk-slate.b4ce9264.chunk.js.map",
+    "main.js": "/react-milanote/static/js/main.d31d95c9.chunk.js",
+    "main.js.map": "/react-milanote/static/js/main.d31d95c9.chunk.js.map",
+    "runtime~main.js": "/react-milanote/static/js/runtime~main.55424f25.js",
+    "runtime~main.js.map": "/react-milanote/static/js/runtime~main.55424f25.js.map",
+    "index.html": "/react-milanote/index.html",
+    "precache-manifest.6870f88bc5576ace2df6dc323f293361.js": "/react-milanote/precache-manifest.6870f88bc5576ace2df6dc323f293361.js",
+    "service-worker.js": "/react-milanote/service-worker.js",
+    "static/css/chunk-blinkmind.2ad25acf.chunk.css.map": "/react-milanote/static/css/chunk-blinkmind.2ad25acf.chunk.css.map",
+    "static/css/chunk-libs.ee8e6b6e.chunk.css.map": "/react-milanote/static/css/chunk-libs.ee8e6b6e.chunk.css.map",
+    "static/media/default.jpg": "/react-milanote/static/media/default.4f8c4983.jpg",
+    "static/media/iconfont.css": "/react-milanote/static/media/iconfont.c7f49803.eot",
+    "static/media/theme1.jpg": "/react-milanote/static/media/theme1.2f59f00b.jpg",
+    "static/media/theme2.jpg": "/react-milanote/static/media/theme2.b18193fb.jpg",
+    "static/media/theme3.jpg": "/react-milanote/static/media/theme3.61c97910.jpg",
+    "static/media/theme4.jpg": "/react-milanote/static/media/theme4.1e21408c.jpg"
+  }
+}
